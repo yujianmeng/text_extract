@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jieba-analysis-1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/项目源码/jieba-analysis-master/target/jieba-analysis-1.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/项目源码/jieba-analysis-master/target/jieba-analysis-1.0.3-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/项目源码/jieba-analysis-master/target/jieba-analysis-1.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lpsolve55j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PKUSUMSUM-master/lib/lpsolve55j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../PKUSUMSUM-master/lib/ansj_seg-5.0.2-all-in-one.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../PKUSUMSUM-master/lib/stanford-ner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

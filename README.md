@@ -1,0 +1,7 @@
+华自出差文本分析
+结构化文档与分结构化文档自动分类
+结构化文档信息自动提取
+文章摘要自动提取
+文章相似度匹配
+ArticleSimilarity、PKUSUMSUM、hanLp、jieba
+其中resource中data路径下的词典有需要的请发邮件yujian_fe@163.com联系

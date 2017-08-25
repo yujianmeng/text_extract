@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-math-2.0">
+    <CLASSES>
+      <root url="jar://D:/项目源码/ArticleSimilarity-master/commons-math-2.0.jar!/" />
+      <root url="jar://D:/项目源码/ArticleSimilarity-master/lucene-analyzers-common-4.10.2.jar!/" />
+      <root url="jar://D:/项目源码/ArticleSimilarity-master/lucene-core-4.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
